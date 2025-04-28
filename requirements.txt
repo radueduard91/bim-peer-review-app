@@ -6,4 +6,3 @@ plotly
 pandas
 openpyxl
 networkx
-tkinter
